@@ -2,6 +2,9 @@
 
 This project contains the Arduino firmware (`arp_4_en.ino`) for a Teensy-based MIDI Arpeggiator. It allows the Teensy to receive MIDI notes (via USB or hardware MIDI) and process them into arpeggiated sequences.
 
+## Technical schema
+![schema](teensy.jpg)
+
 ## Features
 * **MIDI Arpeggiation:** Takes input chords and outputs sequential notes based on a set tempo and pattern.
 * **Teensy Support:** Optimized for Teensy microcontrollers for low-latency MIDI processing.
