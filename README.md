@@ -40,3 +40,6 @@ This project contains the Arduino firmware (`arp_4_en.ino`) for a Teensy-based M
 
 ## Video presentation
 - [YouTube](https://www.youtube.com/watch?v=6QNuypYggt0)
+
+## MaxMSP example patch
+[MaxMSP readme](./teensy_2.maxpat_README.md)
