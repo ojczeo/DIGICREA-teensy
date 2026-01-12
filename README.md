@@ -10,7 +10,7 @@ This project contains the Arduino firmware (`arp_4_en.ino`) for a Teensy-based M
 ## Hardware Requirements
 * **Microcontroller:** Teensy Board (e.g., Teensy 3.2, 4.0, LC, or 4.1).
 * **USB Connection:** For power and MIDI over USB.
-* **(Optional) Controls:** Potentiometers or buttons connected to GPIO pins for changing tempo, latching, or arp modes (Up, Down, Random).
+* **Controls:** Potentiometer, button and flexible controller connected to GPIO pins for changing tempo, latching, or arp modes (Up, Down, Random).
 
 ## Software Requirements
 1.  **Arduino IDE:** [Download Here](https://www.arduino.cc/en/software)
@@ -34,3 +34,6 @@ This project contains the Arduino firmware (`arp_4_en.ino`) for a Teensy-based M
 * Check the variable definitions at the top of the `.ino` file for the exact pin assignments.*
 * **Tempo Pot:** usually connected to an Analog Pin (e.g., A0).
 * **Mode Button:** usually connected to a Digital Pin.
+
+## Video presentation
+- [YouTube](https://www.youtube.com/watch?v=6QNuypYggt0)
